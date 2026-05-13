@@ -1,6 +1,18 @@
 # Garatuja de Miguel Gobbo
 ## [HTML] a linguagem de marcação html, ou, " Hiper text marckup language", serve para mudar certos elementos os quais você escolhe, eles serão alterados por tags, cada tag pode ter propriedades as quais vão alterar algo na parte marcada que você quer alterar. Essas propriedades precisam ter um valor, que muda dependendo da propriedade que você está usando.
 
+##HTML (para o eu do futuro)
+
+HTML é a estrutura de um site. Foi aqui que eu aprendi a transformar ideias em páginas reais usando tags, textos, imagens, links e organização. Mesmo parecendo simples no começo, foi o HTML que me fez entender como a web funciona por trás das telas.
+
+##CSS (para o eu do futuro)
+
+CSS foi o que deu vida e estilo aos meus projetos. Com ele eu aprendi cores, layouts, animações, responsividade e design. Foi onde comecei a perceber que programação também envolve criatividade e experiência visual.
+
+##JS (para o eu do futuro)
+
+JavaScript foi o momento em que os sites deixaram de ser “parados”. Com JS eu aprendi lógica, interação, eventos, funções e dinamismo. Foi uma das linguagens que mais me fez evoluir na programação e pensar como desenvolvedor de verdade.
+
 
 ## Diferença entre JavaScript e TypeScript
 JavaScript é mais simples e não precisa definir tipo de variável. TypeScript é baseado no JavaScript, mas usa tipagem, ajudando a evitar erros.
